@@ -29,7 +29,11 @@ WebUI.click(findTestObject('Dashboard/button_Log out'))
 
 WebUI.click(findTestObject('Sign In/span_Log in'))
 
+WebUI.delay(2)
+
 WebUI.verifyTextNotPresent('31sjobez7vwyl2gx3qtkpnrv4oky', false)
+
+WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
 

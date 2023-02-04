@@ -12,33 +12,33 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>3e4ede39-107f-4445-9e98-4bff9d98e1e2</testSuiteGuid>
    <testCaseLink>
-      <guid>3d62241c-c76a-46ac-8494-bed00565f8fa</guid>
+      <guid>a2f43e2b-16c4-4fcb-9ca1-7db4b0a7fc60</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Add Liked Songs/TC46_Search songs and add to liked songs from icon liked</testCaseId>
+      <testCaseId>Test Cases/Add Liked Songs/TC47_Search songs and add to liked songs from icon liked</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>304bfcbd-7f19-40e7-ba04-febd98d851e9</guid>
+      <guid>f56fce29-a524-4411-aba6-a59ef5f134bc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Add Liked Songs/TC47_Search songs and add to liked songs from menu</testCaseId>
+      <testCaseId>Test Cases/Add Liked Songs/TC48_Search songs and add to liked songs from menu</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>5b312e0f-8f89-4e05-9396-d5b57ba94208</guid>
+      <guid>1faa873c-19ae-4655-9124-ac951ff3914d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Add Liked Songs/TC48_View list liked songs</testCaseId>
+      <testCaseId>Test Cases/Add Liked Songs/TC49_View list liked songs</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>6f43be45-6fe3-4e80-8b08-176b567ff826</guid>
+      <guid>f2e8bce1-8a07-4f83-9eac-60c18435811d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Add Liked Songs/TC49_Add liked songs from playlist</testCaseId>
+      <testCaseId>Test Cases/Add Liked Songs/TC50_Add liked songs from playlist</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>8ffe4815-dea0-4fb4-bb96-b06129ec61be</guid>
+      <guid>26ee9a53-3e6f-4cd4-8551-6d447ecf278e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Add Liked Songs/TC50_Delete songs from liked songs</testCaseId>
+      <testCaseId>Test Cases/Add Liked Songs/TC51_Delete songs from liked songs</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

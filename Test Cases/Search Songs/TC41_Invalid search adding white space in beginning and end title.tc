@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC41_Invalid search adding white space in beginning and end title</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>9064434a-77bb-4451-85f2-3da8f66d4dc7</testCaseGuid>
-</TestCaseEntity>

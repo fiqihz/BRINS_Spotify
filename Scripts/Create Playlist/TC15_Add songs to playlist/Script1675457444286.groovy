@@ -19,12 +19,22 @@ WebUI.callTestCase(findTestCase('Pre-Condition/Precondition_Succesfully Login'),
 
 WebUI.click(findTestObject('Create Playlist/Add songs inside playlist/div_Liked Songs_AINMAUImkAYJd4ertQxy'))
 
-WebUI.setText(findTestObject('Create Playlist/Add songs inside playlist/input_concat(Let, , s find something for your playlist)_Type__TypeElement-sc-goli3j-0 hGXzYa FeWwGSRANj36qpOBoxdx'), 
-    'begadang')
+if (WebUI.waitForElementPresent(findTestObject('Create Playlist/Add songs inside playlist/input_concat(Let, , s find something for your playlist)_Type__TypeElement-sc-goli3j-0 hGXzYa FeWwGSRANj36qpOBoxdx'), 3, FailureHandling.OPTIONAL) == true) {
+	WebUI.setText(findTestObject('Create Playlist/Add songs inside playlist/input_concat(Let, , s find something for your playlist)_Type__TypeElement-sc-goli3j-0 hGXzYa FeWwGSRANj36qpOBoxdx'),
+		'begadang')
+} else {
+	WebUI.click(findTestObject('Object Repository/Create Playlist/Add songs inside playlist/Find More'))
+	WebUI.setText(findTestObject('Create Playlist/Add songs inside playlist/input_concat(Let, , s find something for your playlist)_Type__TypeElement-sc-goli3j-0 hGXzYa FeWwGSRANj36qpOBoxdx'),
+		'begadang')
+}
 
 WebUI.click(findTestObject('Create Playlist/Add songs inside playlist/button_Add'))
 
 WebUI.verifyElementVisible(findTestObject('Create Playlist/Add songs inside playlist/div_1BegadangRhoma IramaBacain 0 seconds309'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
 

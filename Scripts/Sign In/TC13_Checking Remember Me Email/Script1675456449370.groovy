@@ -29,6 +29,11 @@ WebUI.click(findTestObject('Dashboard/button_Log out'))
 
 WebUI.click(findTestObject('Sign In/span_Log in'))
 
+WebUI.delay(2)
+
 WebUI.verifyTextNotPresent('testing.brins@gmail.com', false)
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
+

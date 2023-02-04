@@ -23,4 +23,7 @@ WebUI.verifyTextPresent('Log in', true)
 
 WebUI.delay(2)
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
+

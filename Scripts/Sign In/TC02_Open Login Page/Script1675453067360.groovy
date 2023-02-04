@@ -25,4 +25,6 @@ WebUI.delay(2)
 
 WebUI.verifyTextPresent("To continue, log in to Spotify.", true)
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()

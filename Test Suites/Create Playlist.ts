@@ -12,129 +12,135 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>92c348e9-39be-40d7-936a-3efd529c0fe0</testSuiteGuid>
    <testCaseLink>
-      <guid>dbccbb04-63ae-478c-9ed7-31c1882382ce</guid>
+      <guid>8bfa7317-b03d-4bcd-bdb2-736cb471e499</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create Playlist/TC14_Create Playlist</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>4a76ac32-e378-4a7d-bd01-5b33657ad4f1</guid>
+      <guid>8a6fed5a-9a03-41f6-ab7a-3810a54b389c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create Playlist/TC15_Add songs to playlist</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>e5f38abb-c229-4520-8409-8ece0ae77c9e</guid>
+      <guid>7eba1158-82a8-4336-9507-6ffe862550b4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create Playlist/TC16_Add songs from other playlist</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>27a81c8c-e2eb-46df-9e22-94fea6b46d7e</guid>
+      <guid>0171026e-128c-4496-b20e-d6e8ba78a9ed</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Create Playlist/TC17_Add songs from search</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>2be8c03f-434e-4f75-aff1-1fea623f3db7</guid>
+      <guid>6578a2ab-3708-4f86-b61b-f9d0b9ecfaa6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC18_Delete songs from playlist</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC18_Add songs that already in the playlist</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>607a720c-051c-46d9-8d5e-445c7042df86</guid>
+      <guid>03465993-0dc7-4d63-b6ee-8f9ab495f8a6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC19_Change playlist name from playlist title</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC19_Delete songs from playlist</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>a569e948-4017-4baf-806e-d4e74b933bd1</guid>
+      <guid>ff9f26eb-a096-4886-84d5-bafae74e44d8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC20_Change playlist name from edit details</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC20_Change playlist name from playlist title</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>98240366-6e2f-44ab-9318-b3d4d0c9e7af</guid>
+      <guid>4934c6c3-8552-4c81-8646-323ef3bde807</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC21_Change playlist name from playlist title and click close</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC21_Change playlist name from edit details</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>9b69b22c-d860-469f-91fd-f5c149fd3359</guid>
+      <guid>f3807bdd-f94d-4f2c-ab5e-72326c6da352</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC22_Change playlist name from edit details and click close</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC22_Change playlist name from playlist title and click close</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>0a7cf7f3-b2a7-46f9-884a-c65fd4bcbe50</guid>
+      <guid>d4bb9de1-1858-40d3-8cfb-13df98a9df4c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC23_Delete playlist name from playlist title</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC23_Change playlist name from edit details and click close</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>54777aff-5cdf-45cc-957c-9e2b4009fad3</guid>
+      <guid>d9a298ce-9dc7-4dac-b775-4c4dd3295267</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC24_Delete playlist name from edit details</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC24_Delete playlist name from playlist title</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>884aec31-a1c6-4c4a-85bb-3c21501cf0fe</guid>
+      <guid>367f3a3c-b244-43fe-92a4-3f2628786b97</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC25_Add description from playlist title</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC25_Delete playlist name from edit details</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>e518dc8b-32ac-4161-bdb6-2169b588df4c</guid>
+      <guid>855a3347-ca68-43c6-ad1e-55e7e69c7100</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC26_Add description from edit details</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC26_Add description from playlist title</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>093aec73-1ea0-4020-ba3e-2654c9571010</guid>
+      <guid>30c6e075-349a-4df2-8a35-96aab34e813c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC27_Add description from playlist title and click close</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC27_Add description from edit details</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>33ad6250-7454-4078-bcdb-7d9d26122f1b</guid>
+      <guid>7483dcfe-e592-4526-bc54-d1dcccd909fa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC28_Add description from edit details and click close</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC28_Add description from playlist title and click close</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>511c4b88-3364-4250-b57d-3e90f75150b1</guid>
+      <guid>2a35f38b-b907-49cc-9794-fea12998009e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC29_View Playlist Radio</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC29_Add description from edit details and click close</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>918e8507-1005-4905-8ee6-ae9b108835be</guid>
+      <guid>ed995a62-a418-4782-950a-fcb0be4231c0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC30_Delete playlist from user profile</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC30_View Playlist Radio</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>9e84f2f0-1fa1-4ea4-96a9-ac27bd813999</guid>
+      <guid>1f0b1e1c-741d-4e73-913e-8f4d51c29350</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC31_Create similar playlist</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC31_Delete playlist from user profile</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>ddc654a6-95d7-4d08-8775-60c716c562a1</guid>
+      <guid>af986fa8-40aa-4e55-b457-5c1a21959cd5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC32_Share by link playlist</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC32_Create similar playlist</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>46a4adf1-bba7-4b1c-9f36-abb3ded19aed</guid>
+      <guid>15dafe20-a9b5-4b46-8e29-726b9246473f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC33_Add playlist to user profile</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC33_Share by link playlist</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>75893647-9ae7-4c48-8674-2a7117e68796</guid>
+      <guid>c31728d0-7549-40f6-b553-f0f64658aa61</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Playlist/TC34_Delete playlist</testCaseId>
+      <testCaseId>Test Cases/Create Playlist/TC34_Add playlist to user profile</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d040e8b3-f4b3-49a3-b459-ae0208ceec1e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Create Playlist/TC35_Delete playlist</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

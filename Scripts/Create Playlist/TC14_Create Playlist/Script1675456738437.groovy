@@ -22,5 +22,9 @@ WebUI.click(findTestObject('Create Playlist/Create Playlist/button_Create Playli
 WebUI.verifyElementVisible(findTestObject('Create Playlist/Create Playlist/input_concat(Let, , s find something for your playlist)_Type__TypeElement-sc-goli3j-0 hGXzYa FeWwGSRANj36qpOBoxdx'), 
     FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
 

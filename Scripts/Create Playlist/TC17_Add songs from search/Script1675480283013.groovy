@@ -30,5 +30,9 @@ WebUI.click(findTestObject('Create Playlist/Add songs from search/button_My Play
 
 WebUI.delay(2)
 
+WebUI.verifyTextPresent('Added to Playlist', true)
+
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
 

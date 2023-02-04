@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC23_Delete playlist name from playlist title</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>312f383d-7de8-4ad2-8c50-5d0bb825d818</testCaseGuid>
-</TestCaseEntity>

@@ -25,6 +25,11 @@ WebUI.click(findTestObject('Sign In/span_Password_Indicator-sc-1airx73-0 kHTWAk'
 
 WebUI.click(findTestObject('Sign In/div_Log In'))
 
-WebUI.verifyTextPresent("Incorrect username or password.", true)
+WebUI.delay(2)
+
+WebUI.verifyTextPresent('Incorrect username or password.', true)
+
+WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
+

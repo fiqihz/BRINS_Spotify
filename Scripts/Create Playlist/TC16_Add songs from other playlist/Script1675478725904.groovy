@@ -17,15 +17,19 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('Pre-Condition/Precondition_Succesfully Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Create Playlist/Add songs from other playlist/div_By Spotify_tsv7E_RBBw6v0XTQlcRo'))
+WebUI.click(findTestObject('Create Playlist/Add songs from other playlist/Card_Radio'))
 
-WebUI.click(findTestObject('Create Playlist/Add songs from other playlist/svg_Sheila On 7_Svg-sc-ytk21e-0 uPxdw'))
+WebUI.click(findTestObject('Create Playlist/Add songs from other playlist/IconSongs_Menu'))
 
 WebUI.mouseOver(findTestObject('Create Playlist/Add songs from other playlist/span_Add to playlist'))
 
 WebUI.click(findTestObject('Create Playlist/Add songs from other playlist/button_My Playlist 1'))
 
 WebUI.delay(2)
+
+WebUI.verifyTextPresent('Added to Playlist', true)
+
+WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
 

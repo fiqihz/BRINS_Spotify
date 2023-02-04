@@ -12,69 +12,69 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>8767fd92-6991-4f3f-baa5-006d87a7f151</testSuiteGuid>
    <testCaseLink>
-      <guid>4edb6778-d37e-4097-b5db-d4b89904ad4a</guid>
+      <guid>79b98f0e-b32e-46c1-8ba5-73c7f24d7a00</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search Songs/TC35_Search title songs</testCaseId>
+      <testCaseId>Test Cases/Search Songs/TC36_Search title songs</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>09e18dac-2c11-4b5e-ac99-045b2dc3e8fc</guid>
+      <guid>4126ec85-9b5b-455d-a4cb-680d4865aa47</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search Songs/TC36_Search artist name</testCaseId>
+      <testCaseId>Test Cases/Search Songs/TC37_Search artist name</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>39019dc6-54db-45d9-b4b3-bdf0d7a36361</guid>
+      <guid>1b7c62c6-47a2-4a9f-915a-4ca5bf3f54ce</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search Songs/TC37_Search album name</testCaseId>
+      <testCaseId>Test Cases/Search Songs/TC38_Search album name</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>d90f916b-7b24-4762-8ecb-e1143937f989</guid>
+      <guid>be92428b-798e-48f7-b163-42ef8abddeb0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search Songs/TC38_Search playlist name</testCaseId>
+      <testCaseId>Test Cases/Search Songs/TC39_Search playlist name</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>7d193a85-bca6-4bde-a939-48e8da0dfe7b</guid>
+      <guid>758e50fd-ef79-491d-839c-578bbdd05131</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search Songs/TC39_Invalid Search</testCaseId>
+      <testCaseId>Test Cases/Search Songs/TC40_Invalid Search</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>f15ed9cb-c728-4895-a4db-2d823ca0556b</guid>
+      <guid>2218ece5-a3b6-4511-80ea-0a8c95e9b1c2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search Songs/TC40_Invalid search without white space</testCaseId>
+      <testCaseId>Test Cases/Search Songs/TC41_Invalid search without white space</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>82639207-0f16-4076-abc7-93cab6dbf35f</guid>
+      <guid>5cc20485-ba7f-41a4-b717-34c42f8a0200</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search Songs/TC41_Invalid search adding white space in beginning and end title</testCaseId>
+      <testCaseId>Test Cases/Search Songs/TC42_Invalid search adding white space in beginning and end title</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>c921d6ff-f8ea-4014-b876-f95fd9733c88</guid>
+      <guid>acad6147-2e7e-4611-9a2e-4c39b8e85eb3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search Songs/TC42_Search songs with non capital letters</testCaseId>
+      <testCaseId>Test Cases/Search Songs/TC43_Search songs with non capital letters</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>eda49ccb-86dc-4ca4-bd0d-054a3ffb37e6</guid>
+      <guid>d34fa6d1-2383-448c-9c6f-3c0d0dcf5f96</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search Songs/TC43_Search songs with all capital letters</testCaseId>
+      <testCaseId>Test Cases/Search Songs/TC44_Search songs with all capital letters</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>0667cf1e-b6a6-473f-9ac3-11d3ca4bdf4f</guid>
+      <guid>2032cb6b-15a6-4ec7-b030-b68f996052a3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search Songs/TC44_Delete one of history search</testCaseId>
+      <testCaseId>Test Cases/Search Songs/TC45_Delete one of history search</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>f3640ced-b02f-4f5b-84a1-11301364d5ea</guid>
+      <guid>77f326b8-dd4b-496c-a269-005744509e2f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search Songs/TC45_Delete all history search</testCaseId>
+      <testCaseId>Test Cases/Search Songs/TC46_Delete all history search</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
