@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Description_f0GjZQZc4c_bKpqdyKbq c0CddR8wF7kDxvU6uM8B</name>
+   <tag></tag>
+   <elementGuidId>5fe5826f-a100-4b3b-964b-f3b7f06d9ef5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.f0GjZQZc4c_bKpqdyKbq.c0CddR8wF7kDxvU6uM8B</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>playlist-edit-details-description-input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f0GjZQZc4c_bKpqdyKbq c0CddR8wF7kDxvU6uM8B</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Add an optional description</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-focus-outline spotify__os--is-windows spotify__container--is-web&quot;]/body[@class=&quot;GenericModal__Body--open&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;GenericModal__overlay&quot;]/div[@class=&quot;GenericModal encore-dark-theme&quot;]/div[@class=&quot;PiyAiXdQULEnWAHP0tu1&quot;]/div[@class=&quot;CU0wnmWejIvyEsRRtSac&quot;]/div[@class=&quot;_qRr3jb13hOiy1EvSL_r&quot;]/textarea[@class=&quot;f0GjZQZc4c_bKpqdyKbq c0CddR8wF7kDxvU6uM8B&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/textarea</value>
+   </webElementXpaths>
+</WebElementEntity>

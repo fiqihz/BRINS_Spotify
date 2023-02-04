@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC47_Search songs and add to liked songs from menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>909ebfe1-90fc-4c28-96ed-a32bf43b26e5</testCaseGuid>
+</TestCaseEntity>

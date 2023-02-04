@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC43_Search songs with all capital letters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de003077-6bc2-4cf5-bf00-e13b2b11abda</testCaseGuid>
+</TestCaseEntity>

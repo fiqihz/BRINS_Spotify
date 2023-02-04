@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC24_Delete playlist name from edit details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9c09baf-e117-4862-83af-756192976496</testCaseGuid>
+</TestCaseEntity>

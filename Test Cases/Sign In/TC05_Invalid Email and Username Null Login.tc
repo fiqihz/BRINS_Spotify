@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Invalid Email and Username Null Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b89f0a87-deab-47cf-878d-d9ebaab44895</testCaseGuid>
+</TestCaseEntity>

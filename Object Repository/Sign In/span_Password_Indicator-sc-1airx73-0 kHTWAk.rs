@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Password_Indicator-sc-1airx73-0 kHTWAk</name>
+   <tag></tag>
+   <elementGuidId>fbc1bf7c-aac2-4ff9-8a33-7024bdbb2888</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div[3]/div/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.Indicator-sc-1airx73-0.kHTWAk</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Indicator-sc-1airx73-0 kHTWAk</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-ezbkAF bAbXVr&quot;]/div[@class=&quot;sc-kLwhqv bcxbrK&quot;]/div[@class=&quot;sc-ikJyIC fLUsEq&quot;]/div[@class=&quot;sc-gsDKAQ kdQBSg&quot;]/div[1]/div[@class=&quot;sc-egiyK ihTAUv&quot;]/div[@class=&quot;Group-u9bcx5-0 UXQuB sc-crHmcD ezWBvp&quot;]/div[@class=&quot;Checkbox-svpvf6-0 gJoDne&quot;]/label[@class=&quot;Label-cpoq-0 iXswkd&quot;]/span[@class=&quot;Indicator-sc-1airx73-0 kHTWAk&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[3]/div/div/label/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+   </webElementXpaths>
+</WebElementEntity>

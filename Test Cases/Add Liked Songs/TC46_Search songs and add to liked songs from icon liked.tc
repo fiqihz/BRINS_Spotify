@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC46_Search songs and add to liked songs from icon liked</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>022f5cad-8469-4efd-9e59-8f10d99f4289</testCaseGuid>
+</TestCaseEntity>

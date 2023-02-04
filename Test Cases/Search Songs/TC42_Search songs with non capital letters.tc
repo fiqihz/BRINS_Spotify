@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC42_Search songs with non capital letters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0a81220-69ea-422e-9948-a42eb3e4ae14</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>af58ac4b-d942-47e4-9463-b278e5ecd267</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M1.47 1.47a.75.75 0 011.06 0L8 6.94l5.47-5.47a.75.75 0 111.06 1.06L9.06 8l5.47 5.47a.75.75 0 11-1.06 1.06L8 9.06l-5.47 5.47a.75.75 0 01-1.06-1.06L6.94 8 1.47 2.53a.75.75 0 010-1.06z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchPage&quot;)/div[@class=&quot;iKwGKEfAfW7Rkx2_Ba4E khkfPsJuVBQyL_5cLT7y&quot;]/div[@class=&quot;CCi1L2OQvgdZvxkRHeKE&quot;]/section[@class=&quot;QyANtc_r7ff_tqrf5Bvc&quot;]/div[@class=&quot;iKwGKEfAfW7Rkx2_Ba4E Z4InHgCs2uhk0MU93y_a&quot;]/div[@class=&quot;ADri2r8kq8LVqSsNNvIr&quot;]/div[@class=&quot;fOEOTcOAgPryvbYRYfOo&quot;]/button[@class=&quot;xmJl0s8mcJ3bfhtnoaP1&quot;]/svg[@class=&quot;Svg-sc-ytk21e-0 uPxdw&quot;]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>
